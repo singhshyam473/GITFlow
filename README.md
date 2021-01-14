@@ -1,0 +1,1 @@
+# GITFlow Branching strategy
